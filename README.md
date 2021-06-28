@@ -1,5 +1,3 @@
--- **DRAFT** --
-
 -- **TO BE APPROVED BY CNCF GB** --
 
 # Prometheus Conformance
