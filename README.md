@@ -1,5 +1,3 @@
--- **TO BE APPROVED BY CNCF GB** --
-
 # Prometheus Conformance
 
 Prometheus is the standard for metric monitoring and observability in the cloud native ecosystem and beyond. To ensure interoperability, to protect users from suprises, and to enable more parallel innovation, the Prometheus project is certifying individual interface **compliance** and Prometheus **compatibility** under the Prometheus **conformance** program.
