@@ -35,7 +35,7 @@ Currently, there are three interface compliance tests:
 
 * [OpenMetrics](https://github.com/prometheus/compliance/tree/main/openmetrics)
 * [PromQL](https://github.com/prometheus/compliance/tree/main/promql)
-* [Remote Write](https://github.com/prometheus/compliance/tree/main/remote_write)
+* [Remote Write](https://github.com/prometheus/compliance/tree/main/remote_write_sender)
 
 ### Prometheus Compatibility
 
