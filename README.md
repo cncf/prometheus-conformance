@@ -1,6 +1,6 @@
 # Prometheus Conformance
 
-Prometheus is the standard for metric monitoring and observability in the cloud native ecosystem and beyond. To ensure interoperability, to protect users from suprises, and to enable more parallel innovation, the Prometheus project is certifying individual interface **compliance** and Prometheus **compatibility** under the Prometheus **conformance** program.
+Prometheus is the standard for metric monitoring and observability in the cloud native ecosystem and beyond. To ensure interoperability, to protect users from surprises, and to enable more parallel innovation, the Prometheus project is certifying individual interface **compliance** and Prometheus **compatibility** under the Prometheus **conformance** program.
 
 This repository is the official reference. Working code, test results, etc. can be found in the respective Prometheus repositories.
 
@@ -16,7 +16,7 @@ All vendors are invited to submit conformance testing results for review by the 
 
 In addition to providing confidence to end users of your Prometheus compatibility, offerings that certify are able to:
 
-* Display interface compliance in their their marketing materials
+* Display interface compliance in their marketing materials
 * Display the "Prometheus Compatible" word and logo marks on their marketing materials
 
 # Certification
